@@ -3,6 +3,13 @@ Ideas (assuming we want to follow the theme)
 - game where you can transition from large state and small state to solve various puzzles
 - literal translation of the theme we can make a game that involves small worlds like bacteria community lol
 - game where you can shoot and the stuff you shoot is tiny and goes into places idk
+    -your bullets turns victim tiny
+    -tiny victims in turn can shoot you and make you tiny
+    -after a period of time, you return to your normal size
+    -while tiny, you have some advantages such as hiding in small holes and sniping big targets but be careful since when
+    the target is reduced below a certain amount of HP, they too turn tiny, then you can have a final brawl as mini-dudes.
+    -the game would be a FPS or Third-Person Shooter and maps might include a household kitchen
+    
 
 Ideas (not following theme)
 
